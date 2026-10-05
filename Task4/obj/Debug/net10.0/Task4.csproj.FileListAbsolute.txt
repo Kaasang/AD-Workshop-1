@@ -1,0 +1,14 @@
+E:\Application Devlopment\Workshop1\Task4\bin\Debug\net10.0\Task4.exe
+E:\Application Devlopment\Workshop1\Task4\bin\Debug\net10.0\Task4.deps.json
+E:\Application Devlopment\Workshop1\Task4\bin\Debug\net10.0\Task4.runtimeconfig.json
+E:\Application Devlopment\Workshop1\Task4\bin\Debug\net10.0\Task4.dll
+E:\Application Devlopment\Workshop1\Task4\bin\Debug\net10.0\Task4.pdb
+E:\Application Devlopment\Workshop1\Task4\obj\Debug\net10.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Application Devlopment\Workshop1\Task4\obj\Debug\net10.0\Task4.AssemblyInfoInputs.cache
+E:\Application Devlopment\Workshop1\Task4\obj\Debug\net10.0\Task4.AssemblyInfo.cs
+E:\Application Devlopment\Workshop1\Task4\obj\Debug\net10.0\Task4.csproj.CoreCompileInputs.cache
+E:\Application Devlopment\Workshop1\Task4\obj\Debug\net10.0\Task4.dll
+E:\Application Devlopment\Workshop1\Task4\obj\Debug\net10.0\refint\Task4.dll
+E:\Application Devlopment\Workshop1\Task4\obj\Debug\net10.0\Task4.pdb
+E:\Application Devlopment\Workshop1\Task4\obj\Debug\net10.0\Task4.genruntimeconfig.cache
+E:\Application Devlopment\Workshop1\Task4\obj\Debug\net10.0\ref\Task4.dll

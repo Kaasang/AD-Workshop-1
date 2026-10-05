@@ -1,0 +1,14 @@
+E:\Application Devlopment\Workshop1\Task5\bin\Debug\net10.0\Task5.exe
+E:\Application Devlopment\Workshop1\Task5\bin\Debug\net10.0\Task5.deps.json
+E:\Application Devlopment\Workshop1\Task5\bin\Debug\net10.0\Task5.runtimeconfig.json
+E:\Application Devlopment\Workshop1\Task5\bin\Debug\net10.0\Task5.dll
+E:\Application Devlopment\Workshop1\Task5\bin\Debug\net10.0\Task5.pdb
+E:\Application Devlopment\Workshop1\Task5\obj\Debug\net10.0\Task5.GeneratedMSBuildEditorConfig.editorconfig
+E:\Application Devlopment\Workshop1\Task5\obj\Debug\net10.0\Task5.AssemblyInfoInputs.cache
+E:\Application Devlopment\Workshop1\Task5\obj\Debug\net10.0\Task5.AssemblyInfo.cs
+E:\Application Devlopment\Workshop1\Task5\obj\Debug\net10.0\Task5.csproj.CoreCompileInputs.cache
+E:\Application Devlopment\Workshop1\Task5\obj\Debug\net10.0\Task5.dll
+E:\Application Devlopment\Workshop1\Task5\obj\Debug\net10.0\refint\Task5.dll
+E:\Application Devlopment\Workshop1\Task5\obj\Debug\net10.0\Task5.pdb
+E:\Application Devlopment\Workshop1\Task5\obj\Debug\net10.0\Task5.genruntimeconfig.cache
+E:\Application Devlopment\Workshop1\Task5\obj\Debug\net10.0\ref\Task5.dll
